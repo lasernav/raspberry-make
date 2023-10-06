@@ -10,7 +10,7 @@
 # config default values
 BUILD_DIR ?= $(PWD)/build
 #BASE ?= https://downloads.raspberrypi.org/raspbian_lite/images/raspbian_lite-2019-04-09/2019-04-08-raspbian-stretch-lite.zip
-BASE ?= https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2023-05-03/2023-05-03-raspios-bullseye-armhf-lite.img.xz
+BASE ?= https://downloads.raspberrypi.org/raspios_lite_armhf/images/raspios_lite_armhf-2022-01-28/2022-01-28-raspios-bullseye-armhf-lite.zip
 SIZE ?= 1G
 HNAME ?= my-rpi
 
